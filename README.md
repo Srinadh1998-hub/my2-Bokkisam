@@ -17,5 +17,5 @@ It is a small town at the foot of Himalayas.This place has a beautiful scenery d
      - Chole Bhatura
      * Kashmiri Saag
      - Nadru Yakhni<br>
-## Link for MyStats.md File : 
-***https://github.com/Srinadh1998-hub/my2-Bokkisam/blob/main/MyStats.md***
+     
+[Link for MyStats.md File : ](***https://github.com/Srinadh1998-hub/my2-Bokkisam/blob/main/MyStats.md***) 
