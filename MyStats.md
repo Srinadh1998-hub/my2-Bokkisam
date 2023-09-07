@@ -28,8 +28,8 @@ Playing sports helps you stay in shape, teaches you how to organize your time, b
  ****
  ## CODE FENCING:
  >Get all file all subfolders and all hidden file with glob?<br>
- 
-[My Stack Overflow Link](***https://stackoverflow.com/questions/20906185/get-all-file-all-subfolders-and-all-hidden-file-with-glob/33059445***)
+
+[My Stack Overflow Link](https://stackoverflow.com/questions/20906185/get-all-file-all-subfolders-and-all-hidden-file-with-glob/33059445)
 
 ```php code
 if($_SERVER['QUERY_STRING']=="hidden")
