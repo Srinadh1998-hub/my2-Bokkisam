@@ -27,8 +27,8 @@ Playing sports helps you stay in shape, teaches you how to organize your time, b
 
  ****
  ## CODE FENCING:
- >Get all file all subfolders and all hidden file with glob ?
-***https://stackoverflow.com/questions/20906185/get-all-file-all-subfolders-and-all-hidden-file-with-glob/33059445***
+ >Get all file all subfolders and all hidden file with glob?<br>
+[My Stack Overflow Link](***https://stackoverflow.com/questions/20906185/get-all-file-all-subfolders-and-all-hidden-file-with-glob/33059445***)
 
 ```php code
 if($_SERVER['QUERY_STRING']=="hidden")
@@ -41,4 +41,4 @@ if($_SERVER['QUERY_STRING']=="hidden")
           $atext="Show";}
           if(substr("$dirArray[$index]", 0, 1) != $hide) {
 ```
-https://css-tricks.com/examples/DisplayDirectoryContents/error.php 
+[My Snippet link](https://css-tricks.com/examples/DisplayDirectoryContents/error.php) 
